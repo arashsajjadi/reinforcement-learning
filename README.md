@@ -1,0 +1,2 @@
+# reinforcement-learning
+Reinforcement learning is a part of machine learning that tries to do things to maximize the rewards of actions in a particular environment. Reinforcement learning algorithms aim to find the best action in a given environment. This type of machine learning can learn to perform the learning process and achieve its goals even in complex and uncertain environments. Just like the human brain, the system is rewarded for good choices and penalized for bad decisions, and it learns from each action.

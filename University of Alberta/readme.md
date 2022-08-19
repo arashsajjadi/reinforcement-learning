@@ -4,7 +4,12 @@ I took a reinforcement learning course published by the University of Alberta th
 
 ## Courses description on the main publisher's website
 
-<a href="[url](https://www.coursera.org/specializations/reinforcement-learning)">Reinforcement Learning Specialization</a>
+
+<img src="https://user-images.githubusercontent.com/47760229/185639391-0be8cf8c-ed75-45f8-8993-47e8ce29daf1.png" height="80" />    <img src="https://user-images.githubusercontent.com/47760229/185639551-67a8f4dc-f7ba-4539-8ef4-a0b8725861bc.png" height="80" />
+
+
+
+
 
 ### About this Specialization
 

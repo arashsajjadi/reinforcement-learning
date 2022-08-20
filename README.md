@@ -9,6 +9,8 @@ My principal reference for studying reinforcement learning is the Reinforcement 
 | 1 | [Reinforcement Learning Specialization](https://github.com/arashsajjadi/reinforcement-learning/tree/main/University%20of%20Alberta) | Coursera            | University of Alberta                 | 4                   |
 | 2 | [Reinforcement Learning with Pytorch](https://github.com/arashsajjadi/reinforcement-learning/tree/main/Udemy%20Reinforcement%20Learning%20with%20Pytorch)   | Udemy               | Clive D.                              | 7                   |
 
+<ins><sup>For more information, you can click on the course name you want.</sup></ins>
+
 ## References
 <a id="1">[1]</a> 
 Richard S. Sutton and Andrew G. Barto. 2018. Reinforcement Learning: An Introduction. A Bradford Book, Cambridge, MA, USA.

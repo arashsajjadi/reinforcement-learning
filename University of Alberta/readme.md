@@ -34,6 +34,7 @@ Through programming assignments and quizzes, students will:
 - Understand how to formalize your task as a RL problem, and how to begin implementing a solution.
 
 -----------------------------------
+## List of courses and relevant links
 - First course: [Fundamentals of Reinforcement Learning](https://github.com/arashsajjadi/reinforcement-learning/tree/main/University%20of%20Alberta/Fundamentals%20of%20Reinforcement%20Learning)
 - Second course:
 - Third course:

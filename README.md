@@ -7,7 +7,7 @@ My principal reference for studying reinforcement learning is the Reinforcement 
 |   | Name of the course                    | Publisher's website | University or the instructor          | The number of parts |
 |---|---------------------------------------|---------------------|---------------------------------------|---------------------|
 | 1 | [Reinforcement Learning Specialization](https://github.com/arashsajjadi/reinforcement-learning/tree/main/University%20of%20Alberta) | Coursera            | University of Alberta                 | 4                   |
-| 2 | Reinforcement Learning with Pytorch   | Udemy               | Clive D.                              | 7                   |
+| 2 | [Reinforcement Learning with Pytorch](https://github.com/arashsajjadi/reinforcement-learning/tree/main/Udemy%20Reinforcement%20Learning%20with%20Pytorch)   | Udemy               | Clive D.                              | 7                   |
 
 ## References
 <a id="1">[1]</a> 

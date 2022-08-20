@@ -32,3 +32,9 @@ Through programming assignments and quizzes, students will:
 - Understand the space of RL algorithms (Temporal- Difference learning, Monte Carlo, Sarsa, Q-learning, Policy Gradient, Dyna, and more).   
 
 - Understand how to formalize your task as a RL problem, and how to begin implementing a solution.
+
+-----------------------------------
+- First course: [Fundamentals of Reinforcement Learning](https://github.com/arashsajjadi/reinforcement-learning/tree/main/University%20of%20Alberta/Fundamentals%20of%20Reinforcement%20Learning)
+- Second course:
+- Third course:
+- Forth course:

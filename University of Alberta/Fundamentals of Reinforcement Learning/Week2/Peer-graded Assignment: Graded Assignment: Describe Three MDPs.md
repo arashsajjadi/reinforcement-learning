@@ -1,4 +1,4 @@
-# MDP
+# Graded Assignment: Describe Three MDPs
 <sub> Submitted on September 1, 2022 </sub>
 --------------------------
 ## Scenario number 1

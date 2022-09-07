@@ -17,6 +17,6 @@ This course is the first of four courses in Augmented Learning at the University
 - Forth week:
   - Quiz: <a href="https://user-images.githubusercontent.com/47760229/188987055-b948d149-21ae-4745-842e-d0688ad14bd4.png">Dynamic Programming</a> $\rightarrow$ 90%
   - Assignment 2: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Fundamentals%20of%20Reinforcement%20Learning/Week4/Assignment2.ipynb
-">Optimal Policies with Dynamic Programming</a>
+">Optimal Policies with Dynamic Programming</a> $\rightarrow$ 100%
 
 

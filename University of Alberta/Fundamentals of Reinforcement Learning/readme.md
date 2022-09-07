@@ -16,8 +16,7 @@ This course is the first of four courses in Augmented Learning at the University
   - Exam: <a href="https://user-images.githubusercontent.com/47760229/187841537-01e4a9d6-847b-4f46-95ce-145dd32e99d9.png">Value Functions and Bellman Equations</a> $\rightarrow$ 100%
 - Forth week:
   - Quiz: <a href="https://user-images.githubusercontent.com/47760229/188987055-b948d149-21ae-4745-842e-d0688ad14bd4.png">Dynamic Programming</a> $\rightarrow$ 90%
-  - Assignment 2: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta
-  /Fundamentals%20of%20Reinforcement%20Learning/Week2/Peer-graded%20Assignment:%20Graded%20Assignment:%20Describe%20Three%20MDPs.md">Optimal Policies with Dynamic Programming</a>
-
+  - Assignment 2: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Fundamentals%20of%20Reinforcement%20Learning/Week4/Assignment2.ipynb
+">Optimal Policies with Dynamic Programming</a>
 
 

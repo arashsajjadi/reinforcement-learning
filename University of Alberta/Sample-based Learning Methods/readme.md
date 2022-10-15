@@ -10,8 +10,8 @@ This course is the second of four courses in Augmented Learning at the Universit
   - Quiz:  <a href="https://user-images.githubusercontent.com/47760229/195642841-48022332-976f-42cb-8171-db1cb552cae0.png">Temporal Difference Learning Methods for Prediction</a> $\rightarrow$ 100%
   - Graded Assignment: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Sample-based%20Learning%20Methods/Week2/assignment.ipynb">Policy Evaluation in Cliff Walking Environment</a>
 - Third week:
-  - Quiz: <a href="https://user-images.githubusercontent.com/47760229/187841317-35ca8dc0-625e-4a6d-9afd-362f5eacbdba.png">Value Functions and Bellman Equations</a> $\rightarrow$ 100%
-  - Exam: <a href="https://user-images.githubusercontent.com/47760229/187841537-01e4a9d6-847b-4f46-95ce-145dd32e99d9.png">Value Functions and Bellman Equations</a> $\rightarrow$ 100%
+  - Quiz: <a href="https://user-images.githubusercontent.com/47760229/195998359-27c0994b-5599-4256-b1ec-2bca5c7afcff.png">Practice Quiz</a> $\rightarrow$ 100%
+  - Programming Assignment: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Sample-based%20Learning%20Methods/Week3/assignment.ipynb">Q-Learning and Expected SARSA</a> 
 - Forth week:
   - Quiz: <a href="https://user-images.githubusercontent.com/47760229/188987055-b948d149-21ae-4745-842e-d0688ad14bd4.png">Dynamic Programming</a> $\rightarrow$ 90%
   - Assignment 2: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Fundamentals%20of%20Reinforcement%20Learning/Week4/Assignment2.ipynb

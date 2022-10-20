@@ -13,7 +13,7 @@ This course is the second of four courses in Augmented Learning at the Universit
   - Quiz: <a href="https://user-images.githubusercontent.com/47760229/195998359-27c0994b-5599-4256-b1ec-2bca5c7afcff.png">Practice Quiz</a> $\rightarrow$ 100%
   - Programming Assignment: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Sample-based%20Learning%20Methods/Week3/assignment.ipynb">Q-Learning and Expected SARSA</a> 
 - Forth week:
-  - Quiz: <a href="https://user-images.githubusercontent.com/47760229/188987055-b948d149-21ae-4745-842e-d0688ad14bd4.png">Dynamic Programming</a> $\rightarrow$ 90%
+  - Quiz: <a href="https://user-images.githubusercontent.com/47760229/196954269-a856cdce-90e0-42c8-bffc-3cb64a7256dd.png">Practice Assessment</a> $\rightarrow$ 90%
   - Assignment 2: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Fundamentals%20of%20Reinforcement%20Learning/Week4/Assignment2.ipynb
 ">Optimal Policies with Dynamic Programming</a> $\rightarrow$ 100%
 

@@ -37,5 +37,7 @@ Through programming assignments and quizzes, students will:
 ## List of courses and relevant links
 - First course: [Fundamentals of Reinforcement Learning](https://github.com/arashsajjadi/reinforcement-learning/tree/main/University%20of%20Alberta/Fundamentals%20of%20Reinforcement%20Learning)
 - Second course: [Sample-based Learning Methods](https://github.com/arashsajjadi/reinforcement-learning/tree/main/University%20of%20Alberta/Sample-based%20Learning%20Methods)
-- Third course:
+- Third course:[Prediction and Control with Function Approximation](https://github.com/arashsajjadi/reinforcement-learning/tree/main/University%20of%20Alberta/Prediction%20and%20Control%20with%20Function%20Approximation)
 - Forth course:
+
+

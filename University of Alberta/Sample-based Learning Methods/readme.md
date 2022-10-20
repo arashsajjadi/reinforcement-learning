@@ -15,4 +15,6 @@ This course is the second of four courses in Augmented Learning at the Universit
 - Forth week:
   - Quiz: <a href="https://user-images.githubusercontent.com/47760229/196954269-a856cdce-90e0-42c8-bffc-3cb64a7256dd.png">Practice Assessment</a> $\rightarrow$ 100%
   - Assignment : <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Sample-based%20Learning%20Methods/Week4/assignment.ipynb">Dyna-Q and Dyna-Q+</a>
+------------------
 
+![Coursera K2U4VFNPECZ5-1](https://user-images.githubusercontent.com/47760229/196968714-1945c045-42d1-4e7a-a9e0-658ebb6c8f2b.jpg)

@@ -14,6 +14,5 @@ This course is the second of four courses in Augmented Learning at the Universit
   - Programming Assignment: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Sample-based%20Learning%20Methods/Week3/assignment.ipynb">Q-Learning and Expected SARSA</a> 
 - Forth week:
   - Quiz: <a href="https://user-images.githubusercontent.com/47760229/196954269-a856cdce-90e0-42c8-bffc-3cb64a7256dd.png">Practice Assessment</a> $\rightarrow$ 100%
-  - Assignment : <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Fundamentals%20of%20Reinforcement%20Learning/Week4/Assignment2.ipynb
-">Dyna-Q and Dyna-Q+</a>
+  - Assignment : <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Sample-based%20Learning%20Methods/Week4/assignment.ipynb">Dyna-Q and Dyna-Q+</a>
 

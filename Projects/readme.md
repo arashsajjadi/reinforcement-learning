@@ -2,7 +2,7 @@
 
 In this directory, I try to share the projects I learned and implemented from [Nicholas Renotte](https://www.youtube.com/c/NicholasRenotte)'s crash course. I try to provide a brief description of each project in this section so that you can easily find the project you want.
 
-## First session
+## [First session](https://github.com/arashsajjadi/reinforcement-learning/tree/main/Projects/CartPole_DQN)
 **environment**:[`"CartPole-v0"`](https://github.com/openai/gym/wiki/CartPole-v0)
 
 **Target**:Balance the  pole on the cart

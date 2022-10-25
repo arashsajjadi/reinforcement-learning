@@ -1,1 +1,21 @@
 
+# Prediction and Control with Function Approximation
+
+
+This course is the third of four courses in Augmented Learning at the University of Alberta. This course is divided into four weeks. At the end of each week, we must send exercises and quizzes related to the week's contents. I will post my answers on this page.
+
+- First week:
+  - Quiz: <a href="https://user-images.githubusercontent.com/47760229/197871577-43c75c73-a093-4637-8b1b-64448e1bc720.png">On-policy Prediction with Approximation</a> $\rightarrow$ 100%
+  - Assignment1: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Sample-based%20Learning%20Methods/Week1/Blackjack.ipynb">Blackjack</a> $\rightarrow$ This notebook is not graded. You do not need to write any answers.
+- Second week:
+  - Quiz:  <a href="https://user-images.githubusercontent.com/47760229/195642841-48022332-976f-42cb-8171-db1cb552cae0.png">Temporal Difference Learning Methods for Prediction</a> $\rightarrow$ 100%
+  - Graded Assignment: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Sample-based%20Learning%20Methods/Week2/assignment.ipynb">Policy Evaluation in Cliff Walking Environment</a>
+- Third week:
+  - Quiz: <a href="https://user-images.githubusercontent.com/47760229/195998359-27c0994b-5599-4256-b1ec-2bca5c7afcff.png">Practice Quiz</a> $\rightarrow$ 100%
+  - Programming Assignment: <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Sample-based%20Learning%20Methods/Week3/assignment.ipynb">Q-Learning and Expected SARSA</a> 
+- Forth week:
+  - Quiz: <a href="https://user-images.githubusercontent.com/47760229/196954269-a856cdce-90e0-42c8-bffc-3cb64a7256dd.png">Practice Assessment</a> $\rightarrow$ 100%
+  - Assignment : <a href="https://github.com/arashsajjadi/reinforcement-learning/blob/main/University%20of%20Alberta/Sample-based%20Learning%20Methods/Week4/assignment.ipynb">Dyna-Q and Dyna-Q+</a>
+------------------
+
+![Coursera K2U4VFNPECZ5-1](https://user-images.githubusercontent.com/47760229/196968714-1945c045-42d1-4e7a-a9e0-658ebb6c8f2b.jpg)

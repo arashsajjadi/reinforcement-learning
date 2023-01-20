@@ -27,6 +27,10 @@ If you're interested in learning more about the project or replicating the train
 
 This repository is just a part of the main project which is focused on reinforcement learning and it's a great starting point for anyone interested in learning about deep reinforcement learning with Atari Pong.
 
+## RL Workshop
+
+This [directory](https://github.com/arashsajjadi/reinforcement-learning/tree/main/RL-workshop) contains the materials for a [workshop on Reinforcement Learning (RL)](https://github.com/arashsajjadi/reinforcement-learning/tree/main/RL-workshop), which covered a variety of topics including the fundamentals of RL, tabular methods, and the use of CNNs in RL. Additionally, attendees were able to participate in a hands-on demonstration of training an RL agent using the Pong game as an example. Resources such as slides and other reading materials are also included to further aid in understanding the topic.
+
 ## References
 <a id="1">[1]</a> 
 Richard S. Sutton and Andrew G. Barto. 2018. Reinforcement Learning: An Introduction. A Bradford Book, Cambridge, MA, USA.
